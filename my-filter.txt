@@ -8,15 +8,15 @@
 ||tracking.example.net^
 
 ! Ẩn phần tử trang web
-animevietsub.best###mobile-catfish-top
-animevietsub.best###mobile-catfixx
-animevietsub.best###mobile-catfish
-animevietsub.best###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.Adv
-animevietsub.best###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Ads
-animevietsub.best###invideo_wrapper
-animevietsub.best###watch-block > div.Ads
-animevietsub.best###_preload-ads-1
-animevietsub.best###_preload-ads-2
+animevietsub.bid###mobile-catfish-top
+animevietsub.bid###mobile-catfixx
+animevietsub.bid###mobile-catfish
+animevietsub.bid###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.Adv
+animevietsub.bid###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Ads
+animevietsub.bid###invideo_wrapper
+animevietsub.bid###watch-block > div.Ads
+animevietsub.bid###_preload-ads-1
+animevietsub.bid###_preload-ads-2
 nhothienthan3.top##section.container:nth-child(2) > div.shadow-box.m-b-30:last-child > div.margin-bottom-15px:last-child
 antentruyen.com###floatcenter
 truyenqqko.com##div.content:nth-child(2) > div.div_middle:first-child > div.text-center.mrb0:first-child
